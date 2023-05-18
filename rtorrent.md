@@ -12,6 +12,7 @@ intro: |
 ### Global
 
 | `^q` | Quit |
+| `^x` | Command mode |
 {: .-shortcuts}
 
 ### Main view
